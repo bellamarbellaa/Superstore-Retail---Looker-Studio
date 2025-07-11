@@ -1,4 +1,5 @@
 # Superstore-Retail---Looker-Studio
+Interactive Dashboard could be found in: https://lookerstudio.google.com/reporting/927c37c3-b64e-440c-abbc-3ea13dfb7210
 This project involves building a 2-page (1600x1600) interactive dashboard using Google Looker Studio, analyzing sales and shipping performance for a retail company named Superstore with over 15,000 rows of data spanning 2020–2023. The objective is to extract actionable insights that support marketing, logistics, and operational strategies through data-driven storytelling.
 
  Key Business Insights:
